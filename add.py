@@ -1,3 +1,3 @@
-print ("this is my second version")
-print ("this is my thaird version")
-print ("this is my fort message ")
+print ("this is 1 second version")
+print ("this is 2 thaird version")
+print ("this is 3 fort message ")
